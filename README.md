@@ -1,4 +1,4 @@
-# Kunkka
+# MadMask
 Sample kotlin project to mock api request which user OKHttp.
 
 ### Import
@@ -11,7 +11,7 @@ maven { url 'https://jitpack.io' }
 //Add the dependency
 compile 'com.github.Aquarids:MadMask:0.0.1'
 ```
-[![import](https://jitpack.io/v/Aquarids/Kunkka.svg)](https://jitpack.io/#Aquarids/Kunkka)
+[![import](https://jitpack.io/v/Aquarids/MadMask.svg)](https://jitpack.io/#Aquarids/MadMask)
 
 ### Usage
 1. Put your json file at assets/mask/{block_name}/{json_file_name}
